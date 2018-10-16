@@ -1,0 +1,2 @@
+# NNexercises
+NN hands on
